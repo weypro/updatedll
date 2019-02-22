@@ -1,0 +1,7 @@
+LIBRARY	"downdll"
+EXPORTS
+Init
+GetNewVersion
+GetNewURL
+CleanUp
+GetNewTargetFile
